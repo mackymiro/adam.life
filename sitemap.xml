@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.adam.life/</loc>
+    <lastmod>2015-11-29</lastmod>
+    <changefreq>Monthly</changefreq>
+    <image:image>
+      <image:loc>https://www.adam.life/images/1_normal/machine.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.adam.life/images/uploads/Google_2015_logo.svg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.adam.life/images/uploads/jumiologo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.adam.life/images/uploads/rageon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.adam.life/images/uploads/lsmlogo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.adam.life/images/6_university/icon_1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.adam.life/images/6_university/icon_2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.adam.life/images/6_university/icon_3.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.adam.life/copyright_notice.pdf</loc>
+    <lastmod>2015-11-29</lastmod>
+    <changefreq>Monthly</changefreq>
+  </url>
+</urlset>
